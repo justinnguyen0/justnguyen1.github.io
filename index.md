@@ -8,14 +8,14 @@
 
 ![This is a picture of me](images/JustinNguyen.jpg)
 
-Hello! My name is **Justin Nguyen**, and I am a *junior* studying **computer science** ~~online~~. During my **_free_** time, I enjoy:
+Hello! My name is **Justin Nguyen**, and I am a *junior* studying **computer science** ~~online~~ at UC San Diego. During my **_free_** time, I enjoy:
 
 1. running 
 2. [surfing](images/surfing.JPG)
 3. watching tv/movies
 4. hanging out with friends
 
-If you want to ***chat***, feel free to add me on [Facebook](https://www.facebook.com/justnguyen1/)!
+If you want to ***chat***, feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/justnguyen1/)!
 
 Here is a quote that I like:
 
