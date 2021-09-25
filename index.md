@@ -6,9 +6,9 @@
 
 ## Introduction
 
-[Picture](images/JustinNguyen.jpg)
+![This is a picture of me](images/JustinNguyen.jpg)
 
-Hello! My name is **Justin Nguyen**, and I am a **junior** studying **computer science**. During my free time, I enjoy running, surfing, watching tv/movies, or hanging out with friends. If you want to chat, feel free to add me on [Facebook](https://www.facebook.com/justnguyen1/)!
+Hello! My name is **Justin Nguyen**, and I am a **junior** studying **computer science**. During my free time, I enjoy running, [surfing](images/surfing.JPG), watching tv/movies, or hanging out with friends. If you want to chat, feel free to add me on [Facebook](https://www.facebook.com/justnguyen1/)!
 
 Here is a quote that I like:
 
