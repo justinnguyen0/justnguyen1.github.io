@@ -45,6 +45,6 @@ Some languages I have used before:
 
 Some things I want to develop my skills/knowledge in:
 
-- [ ]  iOS Development/Swift
-- [ ]  Backend Development
-- [ ]  Computer Vision
+- [ ] iOS Development/Swift
+- [ ] Backend Development
+- [ ] Computer Vision
