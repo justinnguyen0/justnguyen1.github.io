@@ -8,7 +8,7 @@
 
 ![This is a picture of me](images/JustinNguyen.jpg)
 
-Hello! My name is **Justin Nguyen**, and I am a *junior* studying **computer science** ~online~. During my **_free_** time, I enjoy:
+Hello! My name is **Justin Nguyen**, and I am a *junior* studying **computer science** ~~online~~. During my **_free_** time, I enjoy:
 
 1. running 
 2. [surfing](images/surfing.JPG)
@@ -45,6 +45,6 @@ Some languages I have used before:
 
 Some things I want to develop my skills/knowledge in:
 
-- [ ] iOS Development/Swift
-- [ ] Backend Development
-- [ ] Computer Vision
+- [ ]  iOS Development/Swift
+- [ ]  Backend Development
+- [ ]  Computer Vision
