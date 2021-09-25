@@ -13,7 +13,7 @@ Hello! My name is **Justin Nguyen**, and I am a **junior** studying **computer s
 1. running 
 2. [surfing](images/surfing.JPG)
 3. watching tv/movies
-4. hanging out with friends. 
+4. hanging out with friends
 
 If you want to chat, feel free to add me on [Facebook](https://www.facebook.com/justnguyen1/)!
 
