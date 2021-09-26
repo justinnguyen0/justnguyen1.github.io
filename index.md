@@ -1,8 +1,8 @@
 # Justin Nguyen
 
-[Introduction](https://github.com/justnguyen1/justnguyen1.github.io/blob/markdown/index.md#introduction)
+[Introduction](#introduction)
 
-[Programming](https://github.com/justnguyen1/justnguyen1.github.io/blob/markdown/index.md#programming)
+[Programming](#programming)
 
 ## Introduction
 
